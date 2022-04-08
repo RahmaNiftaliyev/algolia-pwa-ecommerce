@@ -33,7 +33,7 @@
     "react-dom": "17.0.2",
     "react-fast-compare": "^3.2.0",
     "react-instantsearch-core": "^6.15.0",
-    "react-instantsearch-dom": "^6.15.0",
+    "react-instantsearch-dom": "^6.22.0",
     "search-insights": "^2.1.0"
   },
   "devDependencies": {
